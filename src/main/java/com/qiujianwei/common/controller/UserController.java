@@ -1,4 +1,4 @@
-package com.qiujianwei.common.Controller;
+package com.qiujianwei.common.controller;
 
 import com.qiujianwei.common.Entity.User;
 import com.qiujianwei.common.Service.UserService;
